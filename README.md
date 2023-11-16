@@ -1,4 +1,4 @@
-"# Lab-4-2" 
+"# Lab-4-2" \n
 "# Lab-4-2" 
 cd ~/4-2/testbench/counter_la_fir
 chmod +x  run_sim
