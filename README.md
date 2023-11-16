@@ -1,5 +1,5 @@
 # Lab-4-2
-## Simulation
+### Simulation
 cd ~/4-2/testbench/counter_la_fir
 chmod +x  run_sim
 ./run_sim
